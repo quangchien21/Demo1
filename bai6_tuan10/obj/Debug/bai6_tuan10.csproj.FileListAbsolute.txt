@@ -1,0 +1,22 @@
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\bin\Debug\bai6_tuan10.exe.config
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\bin\Debug\bai6_tuan10.exe
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\bin\Debug\bai6_tuan10.pdb
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\obj\Debug\bai6_tuan10.csproj.AssemblyReference.cache
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\obj\Debug\bai6_tuan10.csproj.SuggestedBindingRedirects.cache
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\obj\Debug\bai6_tuan10.Form1.resources
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\obj\Debug\bai6_tuan10.Properties.Resources.resources
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\obj\Debug\bai6_tuan10.csproj.GenerateResource.cache
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\obj\Debug\bai6_tuan10.csproj.CoreCompileInputs.cache
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\obj\Debug\bai6_tuan10.exe
+D:\Học Tập\Winform\bai6_tuan10\bai6_tuan10\obj\Debug\bai6_tuan10.pdb
+D:\baiktra3\bai6_tuan10\bin\Debug\bai6_tuan10.exe.config
+D:\baiktra3\bai6_tuan10\bin\Debug\bai6_tuan10.exe
+D:\baiktra3\bai6_tuan10\bin\Debug\bai6_tuan10.pdb
+D:\baiktra3\bai6_tuan10\obj\Debug\bai6_tuan10.csproj.AssemblyReference.cache
+D:\baiktra3\bai6_tuan10\obj\Debug\bai6_tuan10.csproj.SuggestedBindingRedirects.cache
+D:\baiktra3\bai6_tuan10\obj\Debug\bai6_tuan10.Form1.resources
+D:\baiktra3\bai6_tuan10\obj\Debug\bai6_tuan10.Properties.Resources.resources
+D:\baiktra3\bai6_tuan10\obj\Debug\bai6_tuan10.csproj.GenerateResource.cache
+D:\baiktra3\bai6_tuan10\obj\Debug\bai6_tuan10.csproj.CoreCompileInputs.cache
+D:\baiktra3\bai6_tuan10\obj\Debug\bai6_tuan10.exe
+D:\baiktra3\bai6_tuan10\obj\Debug\bai6_tuan10.pdb
